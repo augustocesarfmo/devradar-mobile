@@ -18,7 +18,7 @@ Na sua linha de comando execute:
 
 ```bash
 # Clonando este repositório
-$ git clone https://github.com/auguustocesar/devradar-mobile
+$ git clone https://github.com/augustocesarfmo/devradar-mobile
 
 # Acessando o repositório
 $ cd devradar-mobile
