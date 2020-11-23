@@ -2,7 +2,7 @@
 
 Aplicação *mobile desenvolvida na semana OmniStack 10.0 da [Rocketseat](https://rocketseat.com.br/) para gerenciamento e busca de desenvolvedores que residem próximo a você num raio de 100 km.
 
-![](https://imgur.com/T4n6Zs9.png)
+![](https://imgur.com/KIuGENa.png)
 
 ## 🚀 Tecnologias
 
