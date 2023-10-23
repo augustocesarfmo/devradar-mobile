@@ -1,4 +1,4 @@
-# DevRadar - mobile
+# DevRadar mobile
 
 Aplicação *mobile* desenvolvida na semana OmniStack 10.0 da [Rocketseat](https://rocketseat.com.br/) para gerenciamento e busca de desenvolvedores que residem próximo a você num raio de 100 km.
 
@@ -35,7 +35,7 @@ $ yarn ios | yarn android
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/devradar-mobile/blob/master/LICENSE.md) para obter mais informações.
 
 ---
 
